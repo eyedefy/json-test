@@ -1,0 +1,5 @@
+{"bouys":[
+    {"name":"The Hook", "id":"46042", "amplitude": 100.0, "period": 1200, "wavespeed": 0.005},
+    {"name":"Steamer Lane", "id":"46214", "amplitude": 40.0, "period": 600, "wavespeed": 0.008},
+    {"name":"4 Mile", "id":"46012", "amplitude": 20.0, "period": 350, "wavespeed": 0.015}
+]}
